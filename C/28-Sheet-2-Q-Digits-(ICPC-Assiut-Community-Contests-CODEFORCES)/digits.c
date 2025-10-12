@@ -8,17 +8,21 @@
 int main()
 {
     int N;
-    int X;
+    int T;
 
     scanf("%d", &N);
 
-    for (int i = 0; i <= N; i++)
+    for (int i = 1; i <= N; i++)
     {
-        scanf("%d\n", X);
+        scanf("%d", &T);
 
-        printf("%d ", (X % 2));
+        do
+        {
+            printf("%d ", T % 10);
+            T /= 10;
+        } while (T != 0);
 
-        X = X / 10;
+        printf("\n");
     }
 
     return 0;
