@@ -7,8 +7,8 @@
 
 int main()
 {
-    char string[101];
-    fgets(string, 101, stdin);
+    char string[100001];
+    fgets(string, 100001, stdin);
 
     for (int i = 0; string[i] != '\\'; i++)
     {
