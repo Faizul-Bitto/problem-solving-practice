@@ -1,4 +1,4 @@
-// https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F
+// https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G
 
 #include <stdio.h>
 #include <string.h>
