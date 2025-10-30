@@ -1,60 +1,74 @@
 /*
+
     Problem Statement
-    You will be given a string S. The string will contain small and capital English alphabets and digits only. You need to tell how many of them are capital alphabets, how many are small alphabets and how many are digits.
+    You will be given a string S as input. The string will contain only English small alphabets and will not contain any spaces. You need to tell how many time each alphabets from a to z appears. But if the count is zero, you don't need to prin that.
 
     Input Format
-        First line will contain T, the number of test cases.
-        Each test case will contain only S.
+        Input will contain only S.
 
     Constraints
-        1 <= T <= 1000
         1 <= |S| <= 10000; Here |S| means the length of S.
 
     Output Format
-        Output the count of capital alphabets first, then the count of small alphabets then the count of digits. Don't forget to put a new line after each test case.
+        Ouput in the format show in the sample output.
 
     Sample Input 0
-        2
-        theFox25IsBrave
-        ILoveYou100TimesAndSay2Also
+        thefoxisbrave
 
     Sample Output 0
-        3 10 2
-        7 16 4
+        a - 1
+        b - 1
+        e - 2
+        f - 1
+        h - 1
+        i - 1
+        o - 1
+        r - 1
+        s - 1
+        t - 1
+        v - 1
+        x - 1
+
+    Sample Input 1
+        dotheyloveme
+
+    Sample Output 1
+        d - 1
+        e - 3
+        h - 1
+        l - 1
+        m - 1
+        o - 2
+        t - 1
+        v - 1
+        y - 1
 */
 
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-#include <stdbool.h>
 
 int main()
 {
     char S[10001];
-    scanf("%s", &S);
+    scanf("%s", S);
 
     int lengthOfString = strlen(S);
 
-    char A[lengthOfString + 1];
+    int frequency[26] = {0};
 
     for (int i = 0; i < lengthOfString; i++)
     {
-        A[i] = S[i];
+        frequency[S[i] - 'a']++;
     }
 
-    A[lengthOfString] = '\0';
-
-    int fre[26] = {0};
-
-    for (int i = 0; i < lengthOfString; i++)
+    for (int i = 0; i < 26; i++)
     {
-        fre[A[i]]++;
-    }
-
-    for (int i = 0; i <= lengthOfString; i++)
-    {
-        printf("%d\n", fre[i]);
+        if (frequency[i] > 0)
+        {
+            printf("%c - %d\n", (i + 'a'), frequency[i]);
+        }
     }
 
     return 0;
