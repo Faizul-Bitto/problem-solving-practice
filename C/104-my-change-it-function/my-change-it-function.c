@@ -3,7 +3,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-int changeIt(int A[], int N)
+void changeIt(int A[], int N)
 {
     A[N - 1] = 100;
 
