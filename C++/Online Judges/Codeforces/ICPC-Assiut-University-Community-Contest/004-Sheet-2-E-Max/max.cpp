@@ -1,7 +1,6 @@
 // https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
 
-#include <iostream>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
@@ -9,7 +8,7 @@ int main()
     int N;
     cin >> N;
 
-    int x, maximum = 0;
+    int x, maximum = INT_MIN;
 
     while ((N--) && (cin >> x))
     {
