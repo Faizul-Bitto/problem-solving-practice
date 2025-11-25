@@ -34,9 +34,7 @@ int main()
         }
     }
 
-    int temp = A[minimumNumberIndex];
-    A[minimumNumberIndex] = A[maximumNumberIndex];
-    A[maximumNumberIndex] = temp;
+    swap(A[minimumNumberIndex], A[maximumNumberIndex]);
 
     for (int i = 0; i < N; i++)
     {
