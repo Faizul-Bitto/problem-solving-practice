@@ -11,7 +11,7 @@ int main()
     while (T--)
     {
         int N, D;
-        cin >> N, D;
+        cin >> N >> D;
 
         int A[N];
 
@@ -21,16 +21,18 @@ int main()
         }
 
         int switchCount = 0;
+        char gun = 'c';
 
         for (int i = 0; i < N; i++)
         {
-            if (A[i] > D)
+            if (A[i] > D && gun == 'c')
             {
+                gun = 'l';
                 switchCount++;
             }
-
-            if (A[i] <= D)
+            else if (A[i] <= D && gun == 'l')
             {
+                gun = 'c';
                 switchCount++;
             }
         }
