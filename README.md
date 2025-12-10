@@ -14,6 +14,10 @@
 
 ---
 
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B-blue?style=flat-square)
+![Platforms](https://img.shields.io/badge/Platforms-4%2B-success?style=flat-square)
+![Problems](https://img.shields.io/badge/Problems-70%2B-orange?style=flat-square)
+
 </div>
 
 ---
@@ -271,6 +275,21 @@ While this is primarily a personal practice repository, suggestions and improvem
 ---
 
 **Made with ❤️ for Competitive Programming**
+
+---
+
+<div align="center">
+
+*If you want to add dynamic GitHub badges, replace `YOUR_USERNAME` and `YOUR_REPO_NAME` in the URLs below:*
+
+```markdown
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=social)
+```
+
+</div>
 
 </div>
 
