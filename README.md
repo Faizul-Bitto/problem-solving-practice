@@ -55,13 +55,13 @@ This repository serves as a personal archive and learning resource for competiti
 
 <div align="center">
 
-| Platform | Type | Status | Problems |
-|:--------:|:----:|:------:|:--------:|
-| **CodeChef** | Contests & Practice | 🟢 Active | 15+ |
-| **Codeforces** | Contests & Rated Problems | 🟢 Active | 20+ |
-| **HackerRank** | Closed Contests | 🟡 Archived | 10 |
-| **ICPC Assiut** | University Contests | 🟢 Active | 17+ |
-| **Random** | Practice & Learning | 🟢 Active | 6+ |
+| Platform | Type | Status |
+|:--------:|:----:|:------:|
+| **CodeChef** | Contests & Practice | 🟢 Active |
+| **Codeforces** | Contests & Rated Problems | 🟢 Active |
+| **HackerRank** | Closed Contests | 🟡 Archived |
+| **ICPC Assiut** | University Contests | 🟢 Active |
+| **Random** | Practice & Learning | 🟢 Active |
 
 </div>
 
@@ -203,25 +203,34 @@ Each problem solution follows a consistent structure:
 
 ### 📈 Repository Stats
 
-| Metric | Count |
-|:------:|:-----:|
-| **Total Problems** | 70+ |
-| **C Solutions** | 122 |
-| **C++ Solutions** | 60+ |
-| **Platforms** | 4+ |
-| **Contests** | 5+ |
+![GitHub repo size](https://img.shields.io/github/repo-size/Faizul-Bitto/problem-solving-practice?style=for-the-badge&label=Repository%20Size&color=blue)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Faizul-Bitto/problem-solving-practice?style=for-the-badge&label=Code%20Size&color=green)
+![GitHub language count](https://img.shields.io/github/languages/count/Faizul-Bitto/problem-solving-practice?style=for-the-badge&label=Languages&color=orange)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Faizul-Bitto/problem-solving-practice?style=for-the-badge&label=Monthly%20Commits&color=purple)
+
+---
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Last%20Commit&color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Contributors&color=green)
+![GitHub forks](https://img.shields.io/github/forks/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Forks&color=orange)
+![GitHub issues](https://img.shields.io/github/issues/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Issues&color=red)
 
 </div>
 
-### 🏆 Problem Distribution
+### 🏆 Code Statistics
 
-```
-CodeChef:        ████████████░░░░░░░░  15+
-Codeforces:      ████████████████░░░░  20+
-HackerRank:      ████████░░░░░░░░░░░░  10
-ICPC Assiut:     ███████████████░░░░░  17+
-Random Practice: ██████░░░░░░░░░░░░░░  6+
-```
+<div align="center">
+
+![GitHub top language](https://img.shields.io/github/languages/top/Faizul-Bitto/problem-solving-practice?style=for-the-badge&logo=c%2B%2B&logoColor=white&label=Primary%20Language&color=00599C)
+![GitHub language count](https://img.shields.io/github/languages/count/Faizul-Bitto/problem-solving-practice?style=for-the-badge&label=Total%20Languages&color=green)
+
+---
+
+![GitHub lines of code](https://img.shields.io/tokei/lines/github/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Lines%20of%20Code&color=blue)
+![GitHub watchers](https://img.shields.io/github/watchers/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Watchers&color=yellow)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Pull%20Requests&color=green)
+
+</div>
 
 ---
 
