@@ -14,9 +14,10 @@
 
 ---
 
-![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B-blue?style=flat-square)
-![Platforms](https://img.shields.io/badge/Platforms-4%2B-success?style=flat-square)
-![Problems](https://img.shields.io/badge/Problems-70%2B-orange?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Faizul-Bitto/problem-solving-practice?style=flat-square&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/Faizul-Bitto/problem-solving-practice?style=flat-square&color=green)
+![GitHub top language](https://img.shields.io/github/languages/top/Faizul-Bitto/problem-solving-practice?style=flat-square&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/Faizul-Bitto/problem-solving-practice?style=flat-square&color=yellow&label=stars)
 
 </div>
 
@@ -275,6 +276,9 @@ While this is primarily a personal practice repository, suggestions and improvem
 ---
 
 **Made with ❤️ for Competitive Programming**
+
+![GitHub followers](https://img.shields.io/github/followers/Faizul-Bitto?style=social&label=Follow)
+![GitHub stars](https://img.shields.io/github/stars/Faizul-Bitto/problem-solving-practice?style=social)
 
 </div>
 
