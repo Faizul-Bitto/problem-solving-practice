@@ -14,10 +14,6 @@
 
 ---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/problem-solving-practice?style=flat-square&color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/username/problem-solving-practice?style=flat-square&color=green)
-![GitHub top language](https://img.shields.io/github/languages/top/username/problem-solving-practice?style=flat-square&color=orange)
-
 </div>
 
 ---
@@ -275,9 +271,6 @@ While this is primarily a personal practice repository, suggestions and improvem
 ---
 
 **Made with ❤️ for Competitive Programming**
-
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/username/problem-solving-practice?style=social)
 
 </div>
 
