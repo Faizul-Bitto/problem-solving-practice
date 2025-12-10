@@ -226,9 +226,9 @@ Each problem solution follows a consistent structure:
 
 ---
 
-![GitHub lines of code](https://img.shields.io/tokei/lines/github/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Lines%20of%20Code&color=blue)
-![GitHub watchers](https://img.shields.io/github/watchers/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Watchers&color=yellow)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Pull%20Requests&color=green)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Closed%20Issues&color=success)
+![GitHub open issues](https://img.shields.io/github/issues-raw/Faizul-Bitto/problem-solving-practice?style=flat-square&label=Open%20Issues&color=red)
 
 </div>
 
